@@ -1,0 +1,68 @@
+.detaile{
+	position: relative;
+	width: 100%;
+	height: 2200px;
+	background: url(../img/detaile/detail.jpg) no-repeat center;
+	background-size: 100% 100%;
+}
+.detaile .dataile-content{
+	position: absolute;
+	width: 80%;
+	height: 90%;
+	left: 10%;
+	top: 5%;
+	background: #f4f4f4;
+}
+.dataile-content .detaile-header{
+	position: absolute;
+	width: 100%;
+	height: 5%;
+	text-align: center;
+	display: table;
+}
+.detaile-header p{
+	width: 100%;
+	height: 100%;
+	top: 25%;
+	font-size: 1.3rem;
+	display: table-cell;
+	vertical-align: middle;
+}
+.dataile-content .detaile-img{
+	position: absolute;
+	top: 5%;
+	width: 80%;
+	left: 10%;
+	height: 25%;
+	text-align: center;
+}
+.dataile-content .detaile-img img{
+	width: auto;height: auto;
+	max-width: 100%;max-height: 100%;
+}
+.dataile-content .detaile-text{
+	position: absolute;
+	top: 32%;
+	left: 10%;
+	width: 80%;
+	height: 65%;
+}
+.dataile-content .detaile-text p{
+	position: relative;
+	text-indent: 2.2rem;
+	margin-top: 2%;
+	padding: 1% auto;
+	font-size: 1.1rem;
+}
+.dataile-text-char span{
+	display: block;
+	width: 100%;
+	height: 50%;
+	left: 0;
+	margin: 2% 0 0 0;
+}
+.dataile-text-char span img{
+	width: auto;
+	height: auto;
+	max-height: 100%;
+}

@@ -1,0 +1,36 @@
+.detaile-ntt-text{
+	position: relative;
+	top: 32%;
+	left: 10%;
+	width: 80%;
+	height: 65%;
+}
+
+.detaile-ntt-text .ntt-char{
+	width: 100%;
+	overflow: auto;
+}
+.detaile-ntt-text .ntt-char p{
+	font-size: 1.1rem;
+	margin: 2%;
+}
+.detaile-ntt-text .ntt-char p span{
+	color: #035ee2;
+}
+.ntt-detaile{
+	width: 100%;
+	top:30%;
+}
+.ntt-detaile h1{
+	color: #015de2;
+	font-size: 1.3rem;
+	padding: 3% 0 1.5% 0;
+}
+.ntt-detaile div{
+	width: 95%;
+	margin: 0 2%;
+	
+}
+.ntt-detaile div p{	
+	padding: 1% 0;
+}
